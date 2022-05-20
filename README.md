@@ -15,11 +15,9 @@
 1-3 欢迎页
 !["图裂了"](img/firstPage.png)
 
-1-3 欢迎页
-!["图裂了"](img/firstPage.png)
-
 1-4 登录页
 !["图裂了"](img/LoginPage1.png)
+
 !["图裂了"](img/LoginPage2.png)
 
 1-5 注册页
