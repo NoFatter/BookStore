@@ -20,9 +20,9 @@
 
 * 1-4 登录页
 
-!["图裂了"](img/LoginPage1.png)
+!["图裂了"](img/loginPage1.png)
 
-!["图裂了"](img/LoginPage2.png)
+!["图裂了"](img/loginPage2.png)
 
 * 1-5 注册页
 
